@@ -1,0 +1,62 @@
+[
+  {
+    "description": "Motivational US0",
+    "type": "M",
+    "targetAnnotations": 7,
+    "maxTime": 60
+  },
+  {
+    "description": "US1 - R",
+    "type": "M",
+    "targetAnnotations": 9,
+    "maxTime": 150
+  },
+  {
+    "description": "US1 - C",
+    "type": "M",
+    "targetAnnotations": 4,
+    "maxTime": 180
+  },
+  {
+    "description": "US2 - R",
+    "type": "M",
+    "targetAnnotations": 3,
+    "maxTime": 120
+  },
+  {
+    "description": "US2 - C",
+    "type": "M",
+    "targetAnnotations": 3,
+    "maxTime": 240
+  },
+  {
+    "description": "US3 - R",
+    "type": "M",
+    "targetAnnotations": 9,
+    "maxTime": 180
+  },
+  {
+    "description": "US3 - C",
+    "type": "M",
+    "targetAnnotations": 4,
+    "maxTime": 270
+  },
+  {
+    "description": "US1 - A",
+    "type": "A",
+    "targetAnnotations": 10,
+    "maxTime": 180
+  },
+  {
+    "description": "US2 - A",
+    "type": "A",
+    "targetAnnotations": 10,
+    "maxTime": 180
+  },
+  {
+    "description": "US3 - A",
+    "type": "A",
+    "targetAnnotations": 10,
+    "maxTime": 180
+  }
+]

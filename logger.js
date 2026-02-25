@@ -587,6 +587,9 @@
   window.logAnnotationDeleted = (annotationId, classId) => {
     if (!loggingActive) return
     deleteCount++
+    if (annotationCount > 0) {
+      annotationCount--
+    }
     const info = {
       type: 'annotation_deleted',
       time: new Date().toISOString(),

@@ -137,7 +137,7 @@ if (typeof window.logAnnotationDeleted === 'function') {
 
 The logger is designed to be **task-based** and automatically switch between tasks. So before you start with your UX testing session, you need to prepare and create a task configuration file in ``.json`` format.
 
-Here is an example of a configuration file:
+Here is an example of a configuration file (or go to see the `tasks_example.json`):
 
 ```json
 [
@@ -231,7 +231,7 @@ If exceeded:
 After completing all tasks, click **Export** to download:
 
 ```
-task_log_TIMESTAMP.json
+annotation_log_TIMESTAMP.json
 ```
 
 ---
